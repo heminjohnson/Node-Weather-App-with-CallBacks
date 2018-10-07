@@ -4,5 +4,5 @@
 
 ```
 > npm install
-> node app.js
+> node app.js -a 'oranienstrasse 185 berlin'
 ```
