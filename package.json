@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/heminjohnson/Node-Weather-App-with-CallBacks/issues"
   },
-  "homepage": "https://github.com/heminjohnson/Node-Weather-App-with-CallBacks#readme"
+  "homepage": "https://github.com/heminjohnson/Node-Weather-App-with-CallBacks#readme",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
 }
