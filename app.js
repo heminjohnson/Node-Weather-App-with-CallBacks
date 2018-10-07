@@ -1,6 +1,7 @@
 const request = require('request')
 
 request({
+  //add the right key or the code doesnot work
   url: 'http://www.mapquestapi.com/geocoding/v1/address?key=KEY&location=1301%20lombard%20street%20philadelphia',
   json: true
 }, (err, res, body) => {
